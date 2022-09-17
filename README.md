@@ -4,4 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qingy2019&border_radius=40&ring=10A0DD&fire=10A0DD&sideLabels=FF7F01)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingy2019)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=qingy2019&color=089cff)
