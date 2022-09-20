@@ -4,6 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qingy2019&border_radius=40&ring=10A0DD&fire=10A0DD&sideLabels=FF7F01)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,idea,java,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,idea,java,python,vscode,cpp,arduino,firebase,androidstudio&perline=3)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=qingy2019&color=089cff)
