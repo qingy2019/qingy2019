@@ -9,3 +9,5 @@
 ![](https://komarev.com/ghpvc/?username=wavescats&color=089cff)
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=qotlin" alt="LeetCode Badges"/>
+
+[️]
