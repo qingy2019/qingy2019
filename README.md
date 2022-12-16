@@ -10,4 +10,4 @@
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=qotlin" alt="LeetCode Badges"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qingy2019)]
+![trophy](https://github-profile-trophy.vercel.app/?username=horsicq)
