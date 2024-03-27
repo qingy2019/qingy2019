@@ -1,4 +1,4 @@
-### Hi there 👋
+### Leetcoding...
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/01110001?theme=wtf&font=Exo%202&ext=contest)
 
