@@ -3,6 +3,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/01110001?theme=light&font=K2D&ext=contest)
 
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,js,cpp,python,swift,html,css,arduino,leetcode,androidstudio,idea,pycharm,clion,vscode,replit,eclipse,sublime,apple,aws,anaconda,raspberrypi,edge,github,githubactions,git,firebase,mongodb,matplotlib,flask,gradle,stackoverflow&perline=9)
 <!--
 **qingy2019/qingy2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
