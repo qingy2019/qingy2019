@@ -1,7 +1,7 @@
 ### Leetcoding <img src="https://github.com/qingy2019/qingy2019/assets/66195939/e17d5f07-785b-4d8f-a974-9da84f0f741c" height=30 width=30>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/01110001?theme=light&font=K2D&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Z3ROsum?theme=light&font=K2D&ext=contest)
 
 ```Python
 if __name__ == "__main__":
