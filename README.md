@@ -8,4 +8,19 @@
     <img src="https://leetcard.jacoblin.cool/Z3ROsum?theme=light&font=K2D&ext=contest">
     <br></br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,js,cpp,python,swift,html,css,arduino,leetcode,androidstudio,idea,pycharm,clion,vscode,replit,eclipse,sublime,apple,aws,anaconda,desmos,miro,raspberrypi,edge,github,githubactions,git,firebase,mongodb,matplotlib,flask,gradle,stackoverflow&perline=9">
+    <br></br>
+</p>
+<p align="center">
+⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣼⣿⣿⠋⠁⠉⠈⠁⠈⠁⠀⠀⣸⣿⣿⠉⡈⠁⠈⠁⠙⣿⣿⣧⡀⠀⠀⠀
+⠀⠀⢀⣾⣿⡿⠃⠀⣰⣿⣿⡟⠁⠀⠀⢀⣿⣿⡏⠀⢻⣿⣿⣆⠀⠘⣿⣿⣷⡀⠀⠀
+⠀⢠⣾⣿⡿⠁⠀⣴⣿⣿⠏⠀⠀⠀⠀⣸⣿⣿⠃⠀⠀⠻⣿⣿⣆⠀⠈⢿⣿⣿⡄⠀
+⣠⣿⣿⡟⠁⢀⣼⣿⣿⠋⠀⠀⠀⠀⢀⣿⣿⡟⠀⠀⠀⠀⠹⣿⣿⣧⠀⠈⢿⣿⣿⣄
+⢿⣿⣿⡀⠀⠸⣿⣿⣧⠀⠀⠀⠀⠀⢸⣿⣿⠃⠀⠀⠀⠀⢀⣼⣿⣿⠇⠀⢠⣿⣿⡿
+⠈⢻⣿⣿⡄⠀⠘⣿⣿⣷⡀⠀⠀⠀⣿⣿⡟⠀⠀⠀⠀⢀⣾⣿⣿⠃⠀⣠⣿⣿⡟⠁
+⠀⠀⢻⣿⣿⣆⠀⠘⢿⣿⣷⡀⠀⢸⣿⣿⠇⠀⠀⠀⢠⣾⣿⡿⠁⠀⣰⣿⣿⡟⠀⠀
+⠀⠀⠀⠹⣿⣿⣧⠀⠈⠻⠛⠿⠀⣿⣿⡿⠀⠀⠀⠀⠿⠻⠟⠁⠀⣴⣿⣿⠏⠀⠀⠀
+⠀⠀⠀⠀⠙⣿⣿⣧⣤⣤⣤⣤⣼⣿⣿⠇⠀⠀⣠⣤⣤⣤⣤⣤⣼⣿⣿⠋⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠘⠿⠿⠿⠿⠿⠿⠿⠿⠿⠀⠀⠀⠽⠿⠿⠿⠿⠿⠿⠿⠃⠀⠀⠀⠀⠀
 </p>
