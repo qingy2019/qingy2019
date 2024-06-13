@@ -3,7 +3,7 @@
     <br></br>
     <img src="https://github.com/qingy2019/qingy2019/assets/66195939/e17d5f07-785b-4d8f-a974-9da84f0f741c" height=40 width=40>
     <br></br>
-    <img src="https://readme-typing-svg.demolab.com/?lines=LeetCoder;Android%20Developer;iOS%20Developer;Competitive%20Programmer;&color=00a7f4&center=true&pause=2000&font=Source%20Code%20Pro&size=30" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=200&color=00A7F4&background=FF000000&center=true&vCenter=true&random=false&width=500&lines=LeetCoder;Android+Developer;iOS+Developer;Competitive+Programmer;C%2B%2B%2FJava%2FPython%2FKotlin" alt="Typing SVG" />
     <br></br>
     <img src="https://leetcard.jacoblin.cool/Z3ROsum?theme=light&font=K2D&ext=contest">
     <br></br>
